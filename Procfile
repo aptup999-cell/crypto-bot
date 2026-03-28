@@ -1,1 +1,1 @@
-worker: python parser.py
+worker: python scalping.py
